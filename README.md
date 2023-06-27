@@ -1,2 +1,2 @@
-# cpinfo
+# CPinfo
 CPinfo Homepage
